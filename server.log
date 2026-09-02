@@ -1,0 +1,13 @@
+   ▲ Next.js 15.5.25
+   - Local:        http://localhost:8081
+   - Network:      http://192.168.2.115:8081
+
+ ✓ Starting...
+ ⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of F:\git\bestzwei\LibreTV-Project\LibreTV\package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * F:\git\bestzwei\LibreTV-Project\LibreTV\libretv-next\package-lock.json
+
+ ✓ Ready in 668ms
